@@ -9,5 +9,3 @@ A URL-shortener service exposing REST endpoints to generate short links and reso
 ## Tech stack
 Java · Spring Boot · REST
 
-## Context
-Built as part of [Crio.Do](https://www.crio.do/)'s project-based curriculum (2022–23) — one of a series of backend projects; see the full portfolio at [github.com/OmKumarBhardwaj](https://github.com/OmKumarBhardwaj).
